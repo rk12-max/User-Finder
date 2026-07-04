@@ -1,6 +1,6 @@
 # 👤 User Finder App
 
-A simple and responsive **User Finder Web Application** built using **HTML, CSS, and JavaScript**.
+A simple and responsive **User Finder Web Application** built using **HTML, CSS, Tailwind, and JavaScript**.
 This project fetches random user data from an external API and displays it in a clean UI.
 
 ---
@@ -19,6 +19,7 @@ This project fetches random user data from an external API and displays it in a 
 
 * HTML5
 * CSS3
+* Tailwind
 * JavaScript (Vanilla JS)
 * API: https://randomuser.me/api/
 

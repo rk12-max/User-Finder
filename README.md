@@ -35,12 +35,6 @@ https://randomuser.me/api/?results=7
 
 ---
 
-## 📸 Preview
-
-(Add screenshot here if you want)
-
----
-
 ## 📱 Responsive Design
 
 The app is fully responsive and works on:
